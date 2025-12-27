@@ -2,7 +2,6 @@ To use, first build:
 ```
 cmake  -DCMAKE_INSTALL_PREFIX=$HOME/.local/lib/qt6/qml 
 make
-cmake --install .
 ```
 Update the shell:
 ```
