@@ -6,7 +6,7 @@
 #include <QObject>
 #include <QTimer>
 #include <QVariantMap>
-#include <qqmlintegration.h>
+#include <QtQmlIntegration/qqmlintegration.h>
 
 class HyprlandMonitor : public QObject {
   Q_OBJECT
